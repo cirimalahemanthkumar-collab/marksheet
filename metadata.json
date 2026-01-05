@@ -1,0 +1,5 @@
+{
+  "name": "Marksheet Analytics AI",
+  "description": "Upload a student marksheet to instantly extract scores, visualize performance with charts, and generate a downloadable PDF report using Gemini AI.",
+  "requestFramePermissions": []
+}
